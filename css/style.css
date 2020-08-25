@@ -276,6 +276,8 @@ h2.brand-title {
 .brands-img li a {
 	display: block;
 }
+.brands-img li a img {
+	height: 100px;
 
 .join {
 	margin-top: 25px;
