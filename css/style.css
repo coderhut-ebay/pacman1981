@@ -297,12 +297,9 @@ h2.brand-title {
 
 /* Footer Area */
 
-.tem-ftr {
-	padding: 30px 0 0;
-}
 .ftr-top {
 	border-bottom: 1px solid #eee;
-	padding: 30px;
+	padding: 30px 0;
 	margin-bottom: 30px;
 }
 .ftr-logo {
