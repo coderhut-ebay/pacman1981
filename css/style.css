@@ -233,13 +233,16 @@ h2.rec-area-title {
 	margin-top: 30px;
 }
 .single-rec img {
-	height: 100px;
+	height: 150px;
 	width: auto;
 	max-width: 100%;
 	margin-bottom: 15px;
 }
 .single-rec p {
 	margin-bottom: 10px;
+}
+.single-rec p a {
+	color: #634f4f;
 }
 .single-rec .price {
 	font-weight: 700;
