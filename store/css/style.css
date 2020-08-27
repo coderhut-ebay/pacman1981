@@ -193,7 +193,7 @@ ul li.v4f,
 }
 
 .pages a.disabled {
-    color: #333 !important;
+    color: #fff !important;
 }
 
 .v4mid form {
@@ -446,7 +446,7 @@ table.v4clp li span {
 }
 
 #CentralArea td.r3_c a {
-    color: #777;
+    color: #999;
     font-size: 12px;
     font-weight: bold;
     text-decoration: none;
