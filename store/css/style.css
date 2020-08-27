@@ -958,11 +958,6 @@ table.gallery td {
     Global
     ================================ */
 
-img {
-    max-width: 100%;
-    height: auto;
-}
-
 /*  ================================
     Header Area
     ================================ */
@@ -1051,4 +1046,17 @@ img {
 .copy-txt {
     padding: 15px 0;
     color: #fff;
+}
+
+/* Custom Css */
+
+table.gallery td.details {
+    background-color: #f5f5f5;
+}
+table.gallery img {
+    height: 120px;
+    width: auto;
+}
+table.gallery td.picture div.image {
+    width: auto !important;
 }
