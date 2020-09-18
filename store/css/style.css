@@ -1032,8 +1032,11 @@ table.gallery td {
 
 /* Banner Area */
 
+.bnr-area {
+	text-align: center;
+}
 .bnr-area img {
-    width: 100%;
+    width: 1170px;
 }
 
 /*  ================================
