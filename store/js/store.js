@@ -37,7 +37,7 @@ jQuery(document).ready(function(){
     
 	//Footer
 	var d = new Date();
-	var footer = "\n\r<div class=\"org-wrapcens\">\r\n<div id=\"org-footer\">\r\n<div class=\"ftr-area\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12\">\r\n<div class=\"copy-txt\">\r\nCopyright \u00a9 2020  HERBLIF NUTRITION USA & HEALTH BEAUTY COST LESS, All Rights Reserved.\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>";
+	var footer = "\n\r<div class=\"org-wrapcens\">\r\n<div id=\"org-footer\">\r\n<div class=\"ftr-area\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-12\">\r\n<div class=\"copy-txt\">\r\nCopyright \u00a9 2020 HERBLIF NUTRITION USA. All Rights Reserved.\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>";
 	
     if(pageName != "PageAboutMeViewStore") {
 		if($(".org-content").length > 0) {
