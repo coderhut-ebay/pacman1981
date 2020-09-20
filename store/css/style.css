@@ -1137,3 +1137,7 @@ table.gallery td.picture div.image {
 .all-item .ttl.g-std a {
     color: #777 !important;
 }
+.all-item .next a,
+.all-item .pages a.disabled {
+    color: #fff !important;
+}
