@@ -1063,3 +1063,70 @@ table.gallery img {
 table.gallery td.picture div.image {
     width: auto !important;
 }
+
+/* Feature Product */
+.ftr-pro-heading {
+    margin-top: 30px;
+    position: relative;
+}
+.ftr-pro-heading:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    height: 2px;
+    background-color: #eee;
+}
+.ftr-pro-heading h3 {
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    margin-bottom: 0;
+    color: #333;
+    font-weight: 700;
+    background-color: #fff;
+    padding: 0 10px;
+}
+.ftr-pro {
+    margin: 30px 0;
+    padding: 0;
+}
+.ftr-pro li {
+    list-style-type: none;
+    display: inline-block;
+    border: 1px solid #eee;
+    margin: 0 5px;
+}
+.single-ftr-pro {
+    position: relative;
+}
+.single-ftr-pro-price {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    transition: all 0.5s ease;
+    visibility: hidden;
+    opacity: 0;
+}
+.single-ftr-pro-price a {
+    display: inline-block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #333;
+    width: 100%;
+}
+
+.ftr-pro li:hover .single-ftr-pro-price {
+    visibility: visible;
+    opacity: 1;
+}
