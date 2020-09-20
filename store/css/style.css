@@ -1065,8 +1065,8 @@ table.gallery td.picture div.image {
 }
 
 /* Feature Product */
+
 .ftr-pro-heading {
-    margin-top: 30px;
     position: relative;
 }
 .ftr-pro-heading:after {
@@ -1078,7 +1078,7 @@ table.gallery td.picture div.image {
     height: 2px;
     background-color: #eee;
 }
-.ftr-pro-heading h3 {
+.ftr-pro-heading h4 {
     position: relative;
     z-index: 2;
     display: inline-block;
@@ -1117,7 +1117,7 @@ table.gallery td.picture div.image {
     display: inline-block;
     padding: 10px 15px;
     text-transform: uppercase;
-    color: #fff;
+    color: #fff !important;
     position: absolute;
     top: 50%;
     left: 50%;
