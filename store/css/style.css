@@ -1130,3 +1130,10 @@ table.gallery td.picture div.image {
     visibility: visible;
     opacity: 1;
 }
+
+.all-item .pages a:visited,
+.all-item .pages a,
+.all-item .ttl.g-std a:visited,
+.all-item .ttl.g-std a {
+    color: #777 !important;
+}
