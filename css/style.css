@@ -283,15 +283,15 @@ h2.brand-title {
 	margin-top: 25px;
 }
 .join h4 {
-	color: #fff;
+	color: #2f2f2f;
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
 .join a {
 	display: inline-block;
 	padding: 10px 35px;
-	border: 2px solid #fff;
-	color: #fff;
+	border: 2px solid #2f2f2f;
+	color: #2f2f2f;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 18px;
