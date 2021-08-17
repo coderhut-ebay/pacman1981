@@ -5,8 +5,6 @@
     line-height: 1.7;
     font-family: 'Hind', sans-serif;
     color: #666;
-    background-image: none !important;
-    background-color: #789D5B;
 }
 .full-tem h1,
 .full-tem h2,
@@ -52,7 +50,8 @@ a:hover {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	display: none;
+	background-image: none !important;
+    background-color: #789D5B;
 }
 .full-inr {
 	background-color: #fff;
