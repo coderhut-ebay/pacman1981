@@ -5,6 +5,8 @@
     line-height: 1.7;
     font-family: 'Hind', sans-serif;
     color: #666;
+    background-image: none !important;
+    background-color: #789D5B;
 }
 .full-tem h1,
 .full-tem h2,
