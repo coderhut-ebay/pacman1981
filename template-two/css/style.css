@@ -222,6 +222,7 @@ h3.pro-desc-title {
 
 .rec-area {
 	padding-bottom: 30px;
+	display: none;
 }
 h2.rec-area-title {
 	margin-bottom: 0;
